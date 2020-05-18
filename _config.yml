@@ -16,8 +16,8 @@
 title: Automate the Network.
 email: chris@automatethenetwork.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My GitHub pages site dedicated to ramblings created 
-  while I study for the Cisco Devnet Associate exam.
+  Dedicated to blogs while I tackle the Cisco DevNet Associate exam. 
+  Hosted on GitHub Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  automatethenetwork
